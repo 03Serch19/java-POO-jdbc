@@ -1,4 +1,4 @@
-# java-POO-jdbc
+# Java-POO-jdbc
 Manejo de clases e interfaces para el desarrollo de programas en java, aplicando poo, implementando en codigo diagramas de clases de casos de uso especificos , diseñados con patrones Grasp, y persistiendo datos con jdbc , la api base de java que permite el almacenamiento de infomracion con bases de datos, aplicacion de polimorfismo, herencia, encapsulación.
 
 Interaccion pura con las la api JDBC para conexiones a bd.
